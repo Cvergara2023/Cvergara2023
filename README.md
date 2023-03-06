@@ -20,7 +20,7 @@ JARDÍN AMÉRICA
 
 * ACTUALMENTE TRABAJO COMO GERENTE EN UNA EMPRESA DE RETAIL
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - 
+
 |       COMANDO         |   DESCRIPCIÓN            |
 - - - - - - - - - - - - - - - - - - - - - - - - - -
 |       TOUCH           | *CREA UNA ARCHIVO*       |
